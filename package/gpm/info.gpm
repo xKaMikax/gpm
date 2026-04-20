@@ -1,4 +1,11 @@
-name: gmp
-full_name: GitHub Pakege Manager
+pakege_name: gmp
+name: GitHub Pakege Manager
+author: ""
+
+runtime: "1"
 version: 1.0
-discripton: None
+discripton: "None"
+help_menu_description:{
+
+}
+command: gpm
