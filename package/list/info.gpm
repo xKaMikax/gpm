@@ -1,0 +1,14 @@
+pakege_name: ls
+name: List Directory Contents
+author: "GPM Team"
+
+version: 1.1
+discripton: "List information about the FILEs (the current directory by default). Sort entries alphabetically if none of -cftuvSUX nor --sort is specified."
+help_menu_description:{
+    "path": "List information about the FILEs in the specified directory",
+    "-l": "Use a long listing format to show permissions, owner, size, and date",
+    "-a": "Do not ignore entries starting with .",
+    "-h": "With -l, print sizes like 1K 234M 2G",
+    "-R": "List subdirectories recursively"
+}
+command: ls
