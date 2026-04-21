@@ -1,6 +1,6 @@
 pakege_name: gmp
 name: GitHub Pakege Manager
-author: ""
+author: "GPM Team"
 
 runtime: "1"
 version: 1.0
